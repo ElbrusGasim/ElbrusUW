@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElbrusUW
+- 👋 Hi, I’m @Elbrus_Gasimov
 - 👀 I’m interested in ... AI and Machine learning Data Science and Data Analayeses and Business Analyses 
 - 🌱 I’m currently learning ... Data Science 
 - 💞️ I’m looking to collaborate on ... Machine Learning 
